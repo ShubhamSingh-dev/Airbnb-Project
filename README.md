@@ -84,5 +84,3 @@ Once the application is running, you can:
 ## **Contributing**
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request. Make sure to follow the coding standards and add relevant tests where necessary.
 
-## **License**
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this software in your projects.
