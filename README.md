@@ -4,6 +4,9 @@
 ## Overview
 **Project-Airbnb** is a Full Stack MERN application designed to list hotels across various cities globally, making it easier for users to find accommodations for their vacations. This project leverages modern web technologies to deliver a responsive and dynamic user experience.
 
+## Live Demo
+Check out the deployed application [here](https://airbnb-project-o68r.onrender.com).
+
 ## **Table of Contents**
 - [Project Overview](#overview)
 - [Features](#features)
