@@ -6,6 +6,8 @@
 
 ## Live Demo
 Check out the deployed application [here](https://airbnb-project-o68r.onrender.com).
+--> click on the left corner compass icon or All listing to view the listings created 
+--> you can try signing up ,and creating your own listing 
 
 ## **Table of Contents**
 - [Project Overview](#overview)
